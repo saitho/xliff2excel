@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "xliff2excel": "bin/xliff2excel"
+  },
   "author": "Marius Büscher <marius.buescher@denkwerk.com>",
   "license": "MIT",
   "dependencies": {
